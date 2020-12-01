@@ -1,0 +1,38 @@
+{
+  "summary": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "firstname": "typicode",
+      "email": "test@mail.co"
+    },
+    {
+      "id": 2,
+      "name": "json",
+      "firstname": "Max",
+      "email": "test1@mail.co"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json",
+      "author": "Max"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

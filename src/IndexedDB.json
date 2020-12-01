@@ -1,0 +1,46 @@
+{
+	"cv": [
+	  {
+		"id": 1,
+		"title": "json-server",
+		"author": "typicode"
+	  },
+	  {
+		"id": 2,
+		"title": "test!",
+		"author": "Spider_NET"
+	  },
+	  {
+		"id": 3,
+		"title": "test!",
+		"author": "lord=of-fear"
+	  },
+	  {
+		"title": "POST-test",
+		"author": "max",
+		"id": 4
+	  },
+	  {
+		"title": "POST-test",
+		"author": "max",
+		"id": 5
+	  },
+	  {
+		"title": "POST-test",
+		"author": "max",
+		"id": 6
+	  },
+	  {
+		"title": "POST-test",
+		"author": "max",
+		"id": 7
+	  }
+	],
+	"comments": [
+	  {
+		"id": 1,
+		"body": "some comment",
+		"postId": 1
+	  }
+	]
+  }
