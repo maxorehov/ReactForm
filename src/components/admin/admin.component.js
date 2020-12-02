@@ -1,4 +1,4 @@
-import Test from './testData.component';
+import Test from '../testData.component';
 
 function Admin() {
 	return (

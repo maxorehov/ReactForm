@@ -1,0 +1,29 @@
+.custom-input {
+	margin-bottom: 15px;
+}
+
+.test-label {
+	margin-bottom: 3px;
+	padding: 0;
+	display: block;
+	font-weight: bold;
+	text-align: left;
+}
+
+.test-input {
+	display: block;
+	box-sizing: border-box;
+	padding: 7px;
+	margin: 0 0 5px;
+	width: 100%;
+}
+
+.custom-input span {
+	color: rgb(224, 39,39);
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.custom-input.invalid label {
+	color: rgb(224, 39, 39);
+}
